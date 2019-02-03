@@ -1,5 +1,9 @@
 <?php 
 
+header('Access-Control-Allow-Origin: *');
+header('Access-Control-Allow-Methods: GET, POST, PUT,OPTIONS');
+//header("Access-Control-Allow-Headers: accept,Origin,content-type,headerToken");
+header("Access-Control-Allow-Headers: DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type, Accept, Origin, Accept-Encoding, GET,headerToken, POST,OPTIONS");
 $name=strip_tags(trim($_POST['form_name']));
 $event_name=strip_tags(trim($_POST['event_name']));
 $form_mobile=strip_tags(trim($_POST['form_mobile']));
