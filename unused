@@ -1,0 +1,114 @@
+
+	<!--ABOUT-->
+	<div id="about">
+		<div class="container">	
+		
+		
+			<!--Parents-->
+			<div id="parents">
+				<h3>The Family</h3>
+			<div class="heart content-style"></div>
+				
+				<div class="row">
+               
+					<div class="col-md-2">
+						<div class="parents">
+						<a href="#" class="overlay hexagon"></a>
+						<div class="base">
+							
+                          <img src="images/family/dadaji_daddiji.jpg"> </div>
+						<div class="parents-text-women"><h4>Raj Kumar &amp; Chand Rani Jain <span>Dadaji & Dadiji</span></h4></div>
+						</div>
+					</div><!--end col-md-2-->
+					<div class="col-md-2">
+						<div class="parents">
+						<a href="#" class="overlay hexagon"></a>
+						<div class="base">
+						  <img src="images/family/mom_dad.jpg" > </div>
+						<div class="parents-text-women"><h4>Sunil &amp; Sushma Jain <span>Mom & Dad</span></h4></div>
+						</div>
+					</div><!--end col-md-2-->
+					<!--end col-md-4-->
+					<div class="col-md-2">
+						<div class="parents">
+						<a href="#" class="overlay hexagon"></a>
+						<div class="base">
+						  <img src="images/family/aj_hj.png" > </div>
+						<div class="parents-text-women"><h4>Amit & Himadri Jain <span>Bade Bhaiya & Bhabhi</span></h4></div>
+						</div>
+					</div><!--end col-md-2-->
+					<div class="col-md-2">
+						<div class="parents">
+						<a href="#" class="overlay hexagon"></a>
+						<div class="base">
+						  <img src="images/family/rums_ashu.jpg" > </div>
+						<div class="parents-text-women"><h4>Ashish  &amp; Rumanshu Jain <span>Manjale Bhaiya & Bhabhi </span></h4></div>
+						</div>
+                        </div><!--end col-md-2-->
+                        
+                        <div class="col-md-2">
+						<div class="parents">
+						<a href="#" class="overlay hexagon"></a>
+						<div class="base">
+						  <img src="images/family/yohan.jpg"></div>
+						<div class="parents-text-women"><h4>Yohan Kant Jain <span>Chote badmaash - Nephew</span></h4></div>
+						</div>
+					</div>
+                        
+                   -->     
+                     
+				</div><!-- end row -->
+                <div class="clearfix"></div>
+			</div><!--end #parents>
+			
+			
+			<!--Godfathers-->
+			<div id="godfathers">
+				<h3>The Extended Family</h3>
+				<div class="heart content-style"></div>
+				<div class="clearfix"></div>
+				<div class="row">
+                <div class="col-md-2"></div>
+					<div class="col-md-4">
+						<div class="godfathers-text-men firstDiv">
+						  <p><strong>Mrs.  Kanta &amp; (Late) Mr. Sukhdev Jain</strong><br>
+						    <em>Buaji  &amp; Fufaji</em></p>
+                          <p><strong>Mrs.  Neena &amp; Mr. Vinod Jain</strong><br>
+                            <em>Buaji  &amp; Fufaji</em></p>
+                          <p><strong>Mrs.  Neeru &amp; Vipin Jain</strong><br>
+                            <em>Buaji  &amp; Fufaji</em></p>
+                          <p><strong>Mrs.  Ruby &amp; Mr. Gagan Jain</strong><br>
+                            <em>Buaji  &amp; Fufaji</em></p>
+                            </div>
+					</div><!--end col-md-4-->
+				
+					<div class="col-md-4">
+						<div class="godfathers-text-men">
+						  <p><strong>Mrs.  Manju &amp; Mr. Pranesh Jain</strong><br>
+						    <em>Mammiji  &amp; Mammaji</em></p>
+                          <p><strong>Mrs.  Sudesh &amp; Mr. Sudarshan Jain</strong><br>
+                            <em>Masiji  &amp; Maserji</em></p>
+                          <p><strong>Mrs.  Kamal &amp; Mr. VC Jain</strong><br>
+                            <em>Masiji  &amp; Maserji</em></p>
+                          <p><strong>Mrs.  Neelam &amp; Mr. Manmohan <a name="_GoBack"></a>Jain</strong><br>
+                            <em>Masiji  &amp; Maserji</em></p>
+                          <p><strong>Mrs.  Sweety &amp; Mr. Suresh Jain</strong><br>
+                            <em>Masiji  &amp; Maserji</em></p>
+                            </div>
+					</div><!--end col-md-4-->
+                    <div class="col-md-2"></div>
+				</div><!--end row-->
+			</div><!--end #godfathers-->
+					
+			
+			<!--Maids-->			
+			<!--end col-md-3-->
+					
+		
+			
+		</div><!-- end container-->
+	</div><!--end #about-->
+	<!--END ABOUT-->
+	
+	
+    
