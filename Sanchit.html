@@ -465,7 +465,8 @@ jQuery('body').scrollspy({ target: '#gn-menu' });
 		// Submit the form using AJAX.
 		$.ajax({
 		    type: 'POST',
-		    url: $(form).attr('action'),
+		    // url: $(form).attr('action'),
+		    url : 'https://sanchitshwethawedding.000webhostapp.com/submit_form.php',
 		    data: formData
 		}).done(function(response) {
 			console.log(response.message);
